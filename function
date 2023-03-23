@@ -18,3 +18,4 @@ main()
 {
 	SomePoints(int_number);
 }
+
