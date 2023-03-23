@@ -14,7 +14,6 @@ SomePoints(num)
 	}
 }
 
-
 main()
 {
 	SomePoints(1000);
