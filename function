@@ -16,6 +16,6 @@ SomePoints(num)
 
 main()
 {
-	SomePoints(int_number);
+	SomePoints(100000);
 }
 
