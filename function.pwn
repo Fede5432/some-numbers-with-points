@@ -10,6 +10,7 @@ SomePoints(num)
 		number = number - 3;
 		strins(text, ".", number);
 	}
+	return text;
 }
 
 main()
